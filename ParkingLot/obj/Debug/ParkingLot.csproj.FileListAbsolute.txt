@@ -1,0 +1,9 @@
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe.config
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Form1.resources
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.Properties.Resources.resources
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.GenerateResource.cache
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
+C:\Users\Matías\Desktop\ParkingLot\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
